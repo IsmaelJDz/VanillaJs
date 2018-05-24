@@ -1,7 +1,6 @@
 ;
 
 ((c, d) => {
-    c('hola')
 
     const perro = {
         nombre: 'Bruno',
