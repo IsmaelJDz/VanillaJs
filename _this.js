@@ -16,7 +16,7 @@
         }
 
         yo.saludar()
-
+   
     //2. Assignacion explicita
         //Caso 2
         //Existe una funcion que recibe un objeto como parametro,
