@@ -40,4 +40,14 @@
     comics.deleteAr('Civil War')
     c(comics.see('Civil War'))
 
+    /*
+        Esta forma de codificar las functiones como clases se conoce como Factory Pattern
+        o template functiones
+        Un problema importante que tiene este tipo de estructura, es que cuando creamos un nuevo
+        objeto a partir de estas funciones, se reservara espacio en memoria para todas
+        las functiones
+
+        Con un objeto creado no supone mucha desventaja, pero con varios objetos si
+    */
+
 })(console.log);
